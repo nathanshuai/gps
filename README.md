@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome 
 
-Click [here](https://nathanshuai.github.io/gps-service/) to Display a map on a webpage.
+Click [here](https://nathanshuai.github.io/gps/) to Display a map on a webpage.
 
 <br />
 
